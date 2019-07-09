@@ -1,6 +1,8 @@
 # Anti-Anti-Spider
-# 2016-10-24 begin  2017-5-8 end
-爬虫的开源项目到现在半年差不多有900+的star了，，接下来就是要玩玩验证码破解了，定一个阶段性目标，前进！再建议一个开源项目，目标1000star！！
+# author@luyishisi & leng-yue
+# 2016-10-24 begin  #2017-5-8 end
+
+特别说明：这个项目最初源于对自己爬虫代码的整理以及技术规整，因此部分爬虫源码可能因为网站改版已经不可用，验证码识别方面因为我改良版本用于工作中不可开源，因此采用熊猫的cnn模型以及冷月的滑动破解模型，上传前均亲测可用，且已得其本人授权。
 
 仓库网址位于https://github.com/luyishisi/Anti-Anti-Spider 欢迎stat
 
@@ -39,7 +41,7 @@ https://github.com/luyishisi/Anti-Anti-Spider/blob/master/tree.txt
 
 5:爬虫项目源码 {优酷网，腾讯视频，推特，拉钩网，百度地图，妹子图网，百家号，百度百科，csdn，新浪微博, 淘宝采集}
 
-6:ip跟换技术   {代理，tor，adsl}
+6:ip更换技术   {代理，tor，adsl}
 
 7:请求伪造     {phantomjs，requests，selenium}
 
